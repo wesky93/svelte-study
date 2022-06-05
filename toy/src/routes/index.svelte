@@ -8,7 +8,6 @@
     Hello world!!
 </h1>
 
-<a href="/about">about</a>
 
 <style lang="postcss">
 .hello{
