@@ -7,7 +7,8 @@
 	const navs: Path[] = [
 		{ path: '/', name: 'home' },
 		{ path: '/about', name: 'about' },
-		{ path: '/todo', name: 'todo' }
+		{ path: '/todo', name: 'todo' },
+        {path:'/counter', name: 'counter' },
 	];
 </script>
 
